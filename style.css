@@ -1,0 +1,13 @@
+#image{
+width:30%;
+height:60%;
+}
+#button{
+background-color:#68b2e7 ;
+border-radius: 15px;
+}
+body {
+    background: linear-gradient(#0852ff 50%, #29f0d2 90%);
+background-repeat:no-repeat;
+background-color:#7FFF00;
+}
